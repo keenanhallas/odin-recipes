@@ -10,6 +10,7 @@ The goal of this project is simple: solidify a foundational level of HTML knowle
     - Creating HTML boilerplate
     - Use of basic HTML elements & their attributes
     - Basic linking between site pages
+    - Using absolute vs. relative paths
     - Utilizing images
     - Committing early & often
     - Atomic commits
