@@ -1,6 +1,6 @@
 # odin-recipes
 
-###Project goals:
+##Project goals:
 
 The intention of this project is to practice basic HTML concepts by creating a simple recipe website. Styling may be added at a later date, but for now (as of 8/28/23) this project will contain no CSS.
 
@@ -18,7 +18,7 @@ The goal of this project is simple: solidify a foundational level of HTML knowle
     - Using exclusively the terminal for file & directory navigation/creation as well as Git
 
 
-###After-thoughts:
+##After-thoughts:
 
 Technically, this is a very simple & straightforward project, with not much to dissect after the fact. I think the biggest benefit was simply the rote repetition of using terminal commands over & over to work with & modify the file structure as well as perform simple Git operations. In contrast with a simple HTML project in a closed-system sandbox, this project was a more engaging way to work with basic HTML and a great first step in becoming more comfortable working in a local dev environment. In other words, moving closer to the way that (I believe) real-world web dev is accomplished.
 
