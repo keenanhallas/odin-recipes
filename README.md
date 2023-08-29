@@ -15,4 +15,3 @@ The goal of this project is simple: solidify a foundational level of HTML knowle
     - Committing early & often
     - Atomic commits
     - Proper commit message format
-    - Deploy website with Github & submit solution
