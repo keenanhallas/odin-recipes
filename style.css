@@ -1,0 +1,42 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+img {
+    padding: 20px 0px;
+}
+
+.description {
+    font-size: 22px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+h1, h2, h3 {
+    border-bottom: 3px solid black;
+    padding: 5px;
+}
+
+ul.ingredients {
+    font-size: 20px;
+}
+
+.ingredients li {
+    margin: 2px;
+}
+
+#recipe-list li {
+    font-size: 24px;
+    padding: 4px 0px;
+}
