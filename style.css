@@ -1,5 +1,10 @@
 * {
-    font-family: Tahoma, sans-serif;
+    font-family: "Raleway", Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(247, 219, 194);
+    color: rgb(32, 40, 33);
 }
 
 h1 {
@@ -7,10 +12,13 @@ h1 {
     text-align: center;
     width: 75%;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 img {
-    padding: 20px 0px;
+    border: 1px solid grey;
+    width: 75%;
+    /* Why is this narrower than 75% for the h1? */
 }
 
 .description {
@@ -19,13 +27,12 @@ img {
 
 .center {
     display: block;
-    margin: auto;
-    width: 75%;
+    margin: auto;  
 }
 
 h1, h2, h3 {
     border-bottom: 3px solid black;
-    padding: 5px;
+    padding: 10px;
 }
 
 ul.ingredients {
@@ -34,9 +41,31 @@ ul.ingredients {
 
 .ingredients li {
     margin: 2px;
+    padding: 2px;
+}
+
+ol.steps {
+    font-size: 20px;
+}
+
+.steps li {
+    margin: 5px;
+    padding: 2px;
 }
 
 #recipe-list li {
     font-size: 24px;
     padding: 4px 0px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.amount {
+    background-color: yellow;
 }
